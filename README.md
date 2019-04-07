@@ -1,5 +1,5 @@
 # Dot-AI
-simple machine learning
+simple machine learning  // use python movingdots.py to run
 
 The program spawns a population of ball objects that will intilaly randomly move until it eveuntaullay learns to go towards the end, when it hits the obstacle it eventually learns to go around it. 
 
